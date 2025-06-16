@@ -10,4 +10,6 @@ placed at the fingers.  The amount of glucose in the blood determines the amount
 signal is then augmented and introduced as an entrance to the Arduino UNO microcontroller. The 
 development and testing of a small, non-invasive blood glucose measuring framework has been 
 accomplished.
-![WhatsApp Image 2025-05-09 at 7 00 17 PM](https://github.com/user-attachments/assets/30cfa8ad-2df1-4331-9ec2-9c1b2deda765)
+
+![Screenshot 2025-06-16 223949](https://github.com/user-attachments/assets/4c9dc345-c4d2-4876-a6ac-85ccb085a0ce)
+![Screenshot 2025-06-16 224015](https://github.com/user-attachments/assets/0bdd306d-598f-4c65-9ccf-203774d9bd9a)
