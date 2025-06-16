@@ -1,12 +1,28 @@
 # Non-invasive-glucometer
-Introducing a new method of blood glucose monitoring, the initiative 
-provides diabetics with a painless, non-invasive technique to check their blood glucose levels. The device 
-detects levels of glucose in the blood without the usage of conventional pinpricks through the integration 
-of advanced sensor technology with methods for signal processing. This project uses visual measurements 
-with almost asymptomatic measurements to overcome invasive method networks such as frequent failures, 
-high repetitive consumption costs, and risk of spreading infections. To detect blood glucose levels, the 
-gadget is made up of near-infrared LEDs with wavelengths between 700 and 1400 nm that are optically 
-placed at the fingers.  The amount of glucose in the blood determines the amount of light is received. The 
-signal is then augmented and introduced as an entrance to the Arduino UNO microcontroller. The 
-development and testing of a small, non-invasive blood glucose measuring framework has been 
-accomplished.
+A new method of blood glucose monitoring has been introduced, offering a painless and non-invasive technique for diabetics.
+
+The device eliminates the need for conventional pinpricks by integrating:
+
+Advanced sensor technology
+
+Signal processing methods
+
+It utilizes visual measurements to address drawbacks of invasive methods such as:
+
+Frequent failures
+
+High recurring costs
+
+Risk of spreading infections
+
+The device uses near-infrared (NIR) LEDs with wavelengths ranging from 700 to 1400 nm, optically aligned at the fingers.
+
+The amount of received light corresponds to the blood glucose concentration.
+
+The signal is then:
+
+Amplified
+
+Sent to an Arduino UNO microcontroller for processing
+
+A compact, non-invasive blood glucose measurement system has been successfully developed and tested.
